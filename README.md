@@ -1,1 +1,1 @@
-# Multivibrator in Altium
+Audio Amplifier in KiCad
